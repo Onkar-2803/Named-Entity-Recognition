@@ -7,4 +7,4 @@ This repositary contains codes for different papers for Named-Entity-Recognition
 1. Mono vs Multilingual BERT: A Case Study in Hindi and Marathi Named Entity Recognition. <br />
    [Click to read the paper](https://arxiv.org/pdf/2203.12907.pdf)
 2. L3Cube-MahaNER: A Marathi Named Entity Recognition Dataset and BERT models <br />
-   [Click to read the paper](https://arxiv.org/pdf/2204.06029.pdf), [Click to view dataset](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER)
+   [Click to read the paper](https://arxiv.org/pdf/2204.06029.pdf), [Click to view dataset](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER), [Use the model](https://huggingface.co/l3cube-pune/marathi-ner)
